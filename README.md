@@ -19,14 +19,15 @@ Tech News Update is a full stack application that allows users to view, create, 
 To use this app, go to the deployed link below. You can view the latest tech news without logging in. To create a post or comment, you will need to sign up. Once you sign up, you will be able to create a post, comment on other posts, vote posts, and delete your own posts and comments. 
 
 ## Screenshots
-![homepage](./screenshots/home_Tech.png)
-![login](./screenshots/login_Tech.png)
+![homepage](./screenshots/home_Tech.png) <br/>
+![login](./screenshots/login_Tech.png) <br/>
 ![dash](./screenshots/dashboard_Tech.png)
 
 ## Links
 
-[GitHub Repo](https://github.com/demiapollo/techNews)
-[Deployed Link]()
+[GitHub Repo](https://github.com/demiapollo/techNews) <br/>
+[Deployed App](https://tech-news-updates-674ad6180393.herokuapp.com/)
+
 
 
 
